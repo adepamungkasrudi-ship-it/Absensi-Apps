@@ -1,6 +1,8 @@
 # Absensi-Apps
 Membuat Aplikasi Absensi dengan Android Studio
 
+# By : RUDI
+
 # Tutorial Build with Android Studio
 https://youtu.be/naA_RTzY9qA
 
